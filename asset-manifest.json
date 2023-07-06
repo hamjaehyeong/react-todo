@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/react-todo/static/css/main.9247d459.css",
-    "main.js": "/react-todo/static/js/main.3707cd3b.js",
+    "main.css": "/react-todo/static/css/main.842cf3e8.css",
+    "main.js": "/react-todo/static/js/main.cd7b5caa.js",
     "static/js/787.c6a9a21d.chunk.js": "/react-todo/static/js/787.c6a9a21d.chunk.js",
-    "static/media/AppleSDGothicNeoR.ttf": "/react-todo/static/media/AppleSDGothicNeoR.d159b4d4ce2ef2592daa.ttf",
-    "static/media/AppleSDGothicNeoM.ttf": "/react-todo/static/media/AppleSDGothicNeoM.88c00162a2084f97069c.ttf",
     "index.html": "/react-todo/index.html",
-    "main.9247d459.css.map": "/react-todo/static/css/main.9247d459.css.map",
-    "main.3707cd3b.js.map": "/react-todo/static/js/main.3707cd3b.js.map",
+    "main.842cf3e8.css.map": "/react-todo/static/css/main.842cf3e8.css.map",
+    "main.cd7b5caa.js.map": "/react-todo/static/js/main.cd7b5caa.js.map",
     "787.c6a9a21d.chunk.js.map": "/react-todo/static/js/787.c6a9a21d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9247d459.css",
-    "static/js/main.3707cd3b.js"
+    "static/css/main.842cf3e8.css",
+    "static/js/main.cd7b5caa.js"
   ]
 }
